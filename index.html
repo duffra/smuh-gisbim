@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIS BIM SAR viewer</title>
+  
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.9.1/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.9.1/mapbox-gl.js"></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.4.3/mapbox-gl-draw.css' type='text/css' />
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Round">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="./css/components.css">
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <div id="cbo"></div>
+  <div id="viewer-container" style="min-width: 0; position: relative;">
+  </div><pre id="features" style="visibility: hidden"></pre>
+  
+  <script type="module" src="./src/index.ts"></script>
+  <script type="module" src="./src/bim-components/NavigationPanel/example.ts"></script>
+</body>
+</html>

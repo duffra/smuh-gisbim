@@ -1,0 +1,2598 @@
+{
+  "1": {
+    "expressID": 1,
+    "type": 4251960020,
+    "Identification": null,
+    "Name": {
+      "value": "Autodesk Revit 2024 (ITA)",
+      "type": 1
+    },
+    "Description": null,
+    "Roles": null,
+    "Addresses": null
+  },
+  "2": {
+    "expressID": 2,
+    "type": 639542469,
+    "ApplicationDeveloper": {
+      "value": 1,
+      "type": 5
+    },
+    "Version": {
+      "value": "2024",
+      "type": 1
+    },
+    "ApplicationFullName": {
+      "value": "Autodesk Revit 2024 (ITA)",
+      "type": 1
+    },
+    "ApplicationIdentifier": {
+      "value": "Revit",
+      "type": 1
+    }
+  },
+  "3": {
+    "expressID": 3,
+    "type": 1123145078,
+    "Coordinates": [
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": 0
+      }
+    ]
+  },
+  "15": {
+    "expressID": 15,
+    "type": 2077209135,
+    "Identification": null,
+    "FamilyName": {
+      "value": "D'Uffizi",
+      "type": 1
+    },
+    "GivenName": {
+      "value": "Francesca",
+      "type": 1
+    },
+    "MiddleNames": null,
+    "PrefixTitles": null,
+    "SuffixTitles": null,
+    "Roles": null,
+    "Addresses": null
+  },
+  "16": {
+    "expressID": 16,
+    "type": 4251960020,
+    "Identification": null,
+    "Name": {
+      "value": "\u0001",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0006\u0006\b\t\u0005\u0011",
+      "type": 1
+    },
+    "Roles": null,
+    "Addresses": null
+  },
+  "17": {
+    "expressID": 17,
+    "type": 101040310,
+    "ThePerson": {
+      "value": 15,
+      "type": 5
+    },
+    "TheOrganization": {
+      "value": 16,
+      "type": 5
+    },
+    "Roles": null
+  },
+  "18": {
+    "expressID": 18,
+    "type": 1207048766,
+    "OwningUser": {
+      "value": 17,
+      "type": 5
+    },
+    "OwningApplication": {
+      "value": 2,
+      "type": 5
+    },
+    "State": null,
+    "ChangeAction": {
+      "type": 3,
+      "value": "NOCHANGE"
+    },
+    "LastModifiedDate": null,
+    "LastModifyingUser": null,
+    "LastModifyingApplication": null,
+    "CreationDate": {
+      "type": 10,
+      "value": 1729104804
+    }
+  },
+  "19": {
+    "expressID": 19,
+    "type": 448429030,
+    "Dimensions": {
+      "value": "LENGTHUNIT",
+      "type": 5
+    },
+    "UnitType": null,
+    "Prefix": {
+      "type": 3,
+      "value": "METRE"
+    }
+  },
+  "28": {
+    "expressID": 28,
+    "type": 103090709,
+    "GlobalId": {
+      "value": "2nzvGZxaDC5PyrEe1ZTzTp",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "03",
+      "type": 1
+    },
+    "Description": null,
+    "ObjectType": null,
+    "LongName": {
+      "value": "Condominio Ederle",
+      "type": 1
+    },
+    "Phase": {
+      "value": "Ricostruzione volumetrica su base documentale",
+      "type": 1
+    },
+    "RepresentationContexts": [
+      {
+        "value": 23,
+        "type": 5
+      }
+    ],
+    "UnitsInContext": {
+      "value": 1502,
+      "type": 5
+    }
+  },
+  "29": {
+    "expressID": 29,
+    "type": 747523909,
+    "Source": {
+      "value": "CSI (Construction Specifications Institute)",
+      "type": 1
+    },
+    "Edition": {
+      "value": "1998",
+      "type": 1
+    },
+    "EditionDate": null,
+    "Name": {
+      "value": "Uniformat",
+      "type": 1
+    },
+    "Description": {
+      "value": "UniFormat Classification",
+      "type": 1
+    },
+    "Specification": {
+      "value": "https://www.csiresources.org/standards/uniformat",
+      "type": 1
+    },
+    "ReferenceTokens": null
+  },
+  "30": {
+    "expressID": 30,
+    "type": 2740243338,
+    "Location": {
+      "value": 3,
+      "type": 5
+    },
+    "Axis": null,
+    "RefDirection": null
+  },
+  "31": {
+    "expressID": 31,
+    "type": 2624227202,
+    "PlacementRelTo": {
+      "value": 41,
+      "type": 5
+    },
+    "RelativePlacement": {
+      "value": 30,
+      "type": 5
+    }
+  },
+  "32": {
+    "expressID": 32,
+    "type": 3355820592,
+    "Purpose": null,
+    "Description": null,
+    "UserDefinedPurpose": null,
+    "InternalLocation": null,
+    "AddressLines": [
+      {
+        "value": "Lungadige Attiraglio",
+        "type": 1
+      }
+    ],
+    "PostalBox": null,
+    "Town": {
+      "value": "\u0001\u0010",
+      "type": 1
+    },
+    "Region": {
+      "value": "45.4425555551596",
+      "type": 1
+    },
+    "PostalCode": {
+      "value": "\u0001\u0010",
+      "type": 1
+    },
+    "Country": {
+      "value": "10.9844722221592",
+      "type": 1
+    }
+  },
+  "33": {
+    "expressID": 33,
+    "type": 4031249490,
+    "GlobalId": {
+      "value": "2nzvGZxaDC5PyrEe1ZTzTo",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Edificio 03",
+      "type": 1
+    },
+    "Description": null,
+    "ObjectType": null,
+    "ObjectPlacement": {
+      "value": 31,
+      "type": 5
+    },
+    "Representation": null,
+    "LongName": {
+      "value": "Edificio 03",
+      "type": 1
+    },
+    "CompositionType": {
+      "type": 3,
+      "value": "ELEMENT"
+    },
+    "ElevationOfRefHeight": null,
+    "ElevationOfTerrain": null,
+    "BuildingAddress": {
+      "value": 32,
+      "type": 5
+    }
+  },
+  "34": {
+    "expressID": 34,
+    "type": 1123145078,
+    "Coordinates": [
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": 2.119999999999986
+      }
+    ]
+  },
+  "35": {
+    "expressID": 35,
+    "type": 2740243338,
+    "Location": {
+      "value": 34,
+      "type": 5
+    },
+    "Axis": null,
+    "RefDirection": null
+  },
+  "36": {
+    "expressID": 36,
+    "type": 2624227202,
+    "PlacementRelTo": {
+      "value": 31,
+      "type": 5
+    },
+    "RelativePlacement": {
+      "value": 35,
+      "type": 5
+    }
+  },
+  "37": {
+    "expressID": 37,
+    "type": 3124254112,
+    "GlobalId": {
+      "value": "0gI3gH121B0Qelg2yHlhgM",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "P00 - Piano Terra",
+      "type": 1
+    },
+    "Description": null,
+    "ObjectType": {
+      "value": "Livello:Livello",
+      "type": 1
+    },
+    "ObjectPlacement": {
+      "value": 36,
+      "type": 5
+    },
+    "Representation": null,
+    "LongName": {
+      "value": "P00 - Piano Terra",
+      "type": 1
+    },
+    "CompositionType": {
+      "type": 3,
+      "value": "ELEMENT"
+    },
+    "Elevation": {
+      "type": 4,
+      "value": 2.119999999999986
+    }
+  },
+  "38": {
+    "expressID": 38,
+    "type": 1123145078,
+    "Coordinates": [
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": -2.119999999999986
+      }
+    ]
+  },
+  "40": {
+    "expressID": 40,
+    "type": 2740243338,
+    "Location": {
+      "value": 38,
+      "type": 5
+    },
+    "Axis": {
+      "value": 9,
+      "type": 5
+    },
+    "RefDirection": {
+      "value": 39,
+      "type": 5
+    }
+  },
+  "41": {
+    "expressID": 41,
+    "type": 2624227202,
+    "PlacementRelTo": null,
+    "RelativePlacement": {
+      "value": 40,
+      "type": 5
+    }
+  },
+  "42": {
+    "expressID": 42,
+    "type": 4097777520,
+    "GlobalId": {
+      "value": "2nzvGZxaDC5PyrEe1ZTzTn",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Default",
+      "type": 1
+    },
+    "Description": null,
+    "ObjectType": null,
+    "ObjectPlacement": {
+      "value": 41,
+      "type": 5
+    },
+    "Representation": null,
+    "LongName": null,
+    "CompositionType": {
+      "type": 3,
+      "value": "ELEMENT"
+    },
+    "RefLatitude": {
+      "value": [
+        45,
+        26,
+        33,
+        199998
+      ],
+      "type": 10
+    },
+    "RefLongitude": {
+      "value": [
+        10,
+        59,
+        4,
+        99999
+      ],
+      "type": 10
+    },
+    "RefElevation": {
+      "type": 4,
+      "value": 0
+    },
+    "LandTitleNumber": null,
+    "SiteAddress": null
+  },
+  "43": {
+    "expressID": 43,
+    "type": 3650150729,
+    "Name": {
+      "value": "Reference",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Informazioni sul progetto",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "44": {
+    "expressID": 44,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "0TtGkoSyN$kQ9ff0vFC$g6",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_SiteCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      }
+    ]
+  },
+  "45": {
+    "expressID": 45,
+    "type": 3650150729,
+    "Name": {
+      "value": "IsExternal",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": false
+    },
+    "Unit": null
+  },
+  "46": {
+    "expressID": 46,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1EW$l6F6lthC$u4e9j8o8h",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_SpaceCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      },
+      {
+        "value": 45,
+        "type": 5
+      }
+    ]
+  },
+  "47": {
+    "expressID": 47,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2NnVpATwvp56ZJ33BnAtep",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 42,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 44,
+      "type": 5
+    }
+  },
+  "48": {
+    "expressID": 48,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2HB98CpAkv83GhwQuTiODU",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 42,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 46,
+      "type": 5
+    }
+  },
+  "1398": {
+    "expressID": 1398,
+    "type": 2347495698,
+    "GlobalId": {
+      "value": "1WqOd8F2nBU8PUU7pZ0E9K",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Massa 1:Massa 1",
+      "type": 1
+    },
+    "Description": null,
+    "ApplicableOccurrence": null,
+    "HasPropertySets": null,
+    "RepresentationMaps": [
+      {
+        "value": 1397,
+        "type": 5
+      }
+    ],
+    "Tag": {
+      "value": "144200",
+      "type": 1
+    }
+  },
+  "1399": {
+    "expressID": 1399,
+    "type": 1838606355,
+    "Name": {
+      "value": "Edifici_Copertura",
+      "type": 1
+    },
+    "Description": null,
+    "Category": {
+      "value": "Generico",
+      "type": 1
+    }
+  },
+  "1402": {
+    "expressID": 1402,
+    "type": 2022407955,
+    "Name": null,
+    "Description": null,
+    "Representations": [
+      {
+        "value": 1401,
+        "type": 5
+      }
+    ],
+    "RepresentedMaterial": {
+      "value": 1399,
+      "type": 5
+    }
+  },
+  "1403": {
+    "expressID": 1403,
+    "type": 1838606355,
+    "Name": {
+      "value": "Edifici_Contesto",
+      "type": 1
+    },
+    "Description": null,
+    "Category": {
+      "value": "Generico",
+      "type": 1
+    }
+  },
+  "1406": {
+    "expressID": 1406,
+    "type": 2022407955,
+    "Name": null,
+    "Description": null,
+    "Representations": [
+      {
+        "value": 1405,
+        "type": 5
+      }
+    ],
+    "RepresentedMaterial": {
+      "value": 1403,
+      "type": 5
+    }
+  },
+  "1407": {
+    "expressID": 1407,
+    "type": 3708119000,
+    "Name": {
+      "value": "Forma",
+      "type": 1
+    },
+    "Description": null,
+    "Material": {
+      "value": 1399,
+      "type": 5
+    },
+    "Fraction": null,
+    "Category": {
+      "value": "Generico",
+      "type": 1
+    }
+  },
+  "1409": {
+    "expressID": 1409,
+    "type": 867548509,
+    "ShapeRepresentations": [
+      {
+        "value": 1408,
+        "type": 5
+      }
+    ],
+    "Name": {
+      "value": "Forma",
+      "type": 1
+    },
+    "Description": null,
+    "ProductDefinitional": {
+      "type": 3,
+      "value": 2
+    },
+    "PartOfProductDefinitionShape": {
+      "value": 1397,
+      "type": 5
+    }
+  },
+  "1410": {
+    "expressID": 1410,
+    "type": 3708119000,
+    "Name": {
+      "value": "Forma",
+      "type": 1
+    },
+    "Description": null,
+    "Material": {
+      "value": 1403,
+      "type": 5
+    },
+    "Fraction": null,
+    "Category": {
+      "value": "Generico",
+      "type": 1
+    }
+  },
+  "1412": {
+    "expressID": 1412,
+    "type": 867548509,
+    "ShapeRepresentations": [
+      {
+        "value": 1411,
+        "type": 5
+      }
+    ],
+    "Name": {
+      "value": "Forma",
+      "type": 1
+    },
+    "Description": null,
+    "ProductDefinitional": {
+      "type": 3,
+      "value": 2
+    },
+    "PartOfProductDefinitionShape": {
+      "value": 1397,
+      "type": 5
+    }
+  },
+  "1413": {
+    "expressID": 1413,
+    "type": 2852063980,
+    "Name": null,
+    "Description": null,
+    "MaterialConstituents": [
+      {
+        "value": 1407,
+        "type": 5
+      },
+      {
+        "value": 1410,
+        "type": 5
+      }
+    ]
+  },
+  "1418": {
+    "expressID": 1418,
+    "type": 1123145078,
+    "Coordinates": [
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": 0
+      },
+      {
+        "type": 4,
+        "value": -2.119999999999986
+      }
+    ]
+  },
+  "1419": {
+    "expressID": 1419,
+    "type": 2740243338,
+    "Location": {
+      "value": 1418,
+      "type": 5
+    },
+    "Axis": null,
+    "RefDirection": null
+  },
+  "1420": {
+    "expressID": 1420,
+    "type": 2624227202,
+    "PlacementRelTo": {
+      "value": 36,
+      "type": 5
+    },
+    "RelativePlacement": {
+      "value": 1419,
+      "type": 5
+    }
+  },
+  "1421": {
+    "expressID": 1421,
+    "type": 4031249490,
+    "GlobalId": {
+      "value": "1WqOd8F2nBU8PUU7pZ0E9M",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Massa 1:Massa 1:144202",
+      "type": 1
+    },
+    "Description": null,
+    "ObjectType": {
+      "value": "Massa 1:Massa 1",
+      "type": 1
+    },
+    "ObjectPlacement": {
+      "value": 1420,
+      "type": 5
+    },
+    "Representation": {
+      "value": 1417,
+      "type": 5
+    },
+    "LongName": null,
+    "CompositionType": null,
+    "ElevationOfRefHeight": null,
+    "ElevationOfTerrain": null,
+    "BuildingAddress": null
+  },
+  "1422": {
+    "expressID": 1422,
+    "type": 3708119000,
+    "Name": {
+      "value": "Edifici_Copertura",
+      "type": 1
+    },
+    "Description": null,
+    "Material": {
+      "value": 1399,
+      "type": 5
+    },
+    "Fraction": null,
+    "Category": {
+      "value": "Generico",
+      "type": 1
+    }
+  },
+  "1423": {
+    "expressID": 1423,
+    "type": 3708119000,
+    "Name": {
+      "value": "Edifici_Contesto",
+      "type": 1
+    },
+    "Description": null,
+    "Material": {
+      "value": 1403,
+      "type": 5
+    },
+    "Fraction": null,
+    "Category": {
+      "value": "Generico",
+      "type": 1
+    }
+  },
+  "1424": {
+    "expressID": 1424,
+    "type": 2852063980,
+    "Name": null,
+    "Description": null,
+    "MaterialConstituents": [
+      {
+        "value": 1422,
+        "type": 5
+      },
+      {
+        "value": 1423,
+        "type": 5
+      }
+    ]
+  },
+  "1425": {
+    "expressID": 1425,
+    "type": 3650150729,
+    "Name": {
+      "value": "Reference",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Massa 1",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1426": {
+    "expressID": 1426,
+    "type": 3650150729,
+    "Name": {
+      "value": "NumberOfStoreys",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 10,
+      "value": 1
+    },
+    "Unit": null
+  },
+  "1427": {
+    "expressID": 1427,
+    "type": 3650150729,
+    "Name": {
+      "value": "IsLandmarked",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": 2
+    },
+    "Unit": null
+  },
+  "1428": {
+    "expressID": 1428,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1n3T3n_a7ZLSaa9sO7Py0m",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 1425,
+        "type": 5
+      },
+      {
+        "value": 1426,
+        "type": 5
+      },
+      {
+        "value": 1427,
+        "type": 5
+      }
+    ]
+  },
+  "1429": {
+    "expressID": 1429,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1U9Bcd9HUBZw5nsG9eNKXz",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingElementProxyCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 45,
+        "type": 5
+      },
+      {
+        "value": 1425,
+        "type": 5
+      }
+    ]
+  },
+  "1430": {
+    "expressID": 1430,
+    "type": 3650150729,
+    "Name": {
+      "value": "AboveGround",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": 2
+    },
+    "Unit": null
+  },
+  "1431": {
+    "expressID": 1431,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "2JOokJdxw9RDP5sPEUq8w_",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingStoreyCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 1425,
+        "type": 5
+      },
+      {
+        "value": 1430,
+        "type": 5
+      }
+    ]
+  },
+  "1432": {
+    "expressID": 1432,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1$We47UsPFyhQXG_K87W9$",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingSystemCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 1425,
+        "type": 5
+      }
+    ]
+  },
+  "1433": {
+    "expressID": 1433,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "0bQwq8CVRnaC0Tv$Ds_lxE",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_SpaceCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 45,
+        "type": 5
+      },
+      {
+        "value": 1425,
+        "type": 5
+      }
+    ]
+  },
+  "1434": {
+    "expressID": 1434,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2BsRUtXydXTpXnTTZYlz5D",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1428,
+      "type": 5
+    }
+  },
+  "1435": {
+    "expressID": 1435,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2yHMqRD3sMZWxJsYz7o1lH",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1429,
+      "type": 5
+    }
+  },
+  "1436": {
+    "expressID": 1436,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "1bem_eoBLIgFxqXLOTXRuD",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1431,
+      "type": 5
+    }
+  },
+  "1437": {
+    "expressID": 1437,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2zmU6qp26lu1TgkhD8e6tW",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1432,
+      "type": 5
+    }
+  },
+  "1438": {
+    "expressID": 1438,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2j_XaHz7lWXK1wYwKF794G",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1433,
+      "type": 5
+    }
+  },
+  "1439": {
+    "expressID": 1439,
+    "type": 3650150729,
+    "Name": {
+      "value": "Reference",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Livello",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1440": {
+    "expressID": 1440,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "09EWvqo3GScquxDFNdgUfd",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingStoreyCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 1430,
+        "type": 5
+      },
+      {
+        "value": 1439,
+        "type": 5
+      }
+    ]
+  },
+  "1441": {
+    "expressID": 1441,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "10jOrCzugNY2OUR9k7C$hv",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_SpaceCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 45,
+        "type": 5
+      },
+      {
+        "value": 1439,
+        "type": 5
+      }
+    ]
+  },
+  "1442": {
+    "expressID": 1442,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "159QcVaRC$$kI4lLmOssWh",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 37,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1440,
+      "type": 5
+    }
+  },
+  "1443": {
+    "expressID": 1443,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "3pSVNk8XSz37xz7cbY5YfT",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 37,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1441,
+      "type": 5
+    }
+  },
+  "1444": {
+    "expressID": 1444,
+    "type": 3242617779,
+    "GlobalId": {
+      "value": "1WqOd8F2nBU8PUU7tZ0Ed0",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedElements": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingStructure": {
+      "value": 37,
+      "type": 5
+    }
+  },
+  "1445": {
+    "expressID": 1445,
+    "type": 160246688,
+    "GlobalId": {
+      "value": "1_MDvm0z$Hm5NvPQU5BnbH",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatingObject": {
+      "value": 28,
+      "type": 5
+    },
+    "RelatedObjects": [
+      {
+        "value": 42,
+        "type": 5
+      }
+    ]
+  },
+  "1446": {
+    "expressID": 1446,
+    "type": 160246688,
+    "GlobalId": {
+      "value": "362c9_iG4$joYadrlwc4bg",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatingObject": {
+      "value": 42,
+      "type": 5
+    },
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ]
+  },
+  "1447": {
+    "expressID": 1447,
+    "type": 160246688,
+    "GlobalId": {
+      "value": "0gI3gH121B0Qelg2mHlhfU",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatingObject": {
+      "value": 33,
+      "type": 5
+    },
+    "RelatedObjects": [
+      {
+        "value": 37,
+        "type": 5
+      }
+    ]
+  },
+  "1448": {
+    "expressID": 1448,
+    "type": 3650150729,
+    "Name": {
+      "value": "NumberOfStoreys",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 10,
+      "value": 1
+    },
+    "Unit": null
+  },
+  "1449": {
+    "expressID": 1449,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "2NtfeVLNDHG7UwTPvp$j_x",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      },
+      {
+        "value": 1427,
+        "type": 5
+      },
+      {
+        "value": 1448,
+        "type": 5
+      }
+    ]
+  },
+  "1450": {
+    "expressID": 1450,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "3fZzY$NtlPa0CMj5GhxO3G",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingElementProxyCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      },
+      {
+        "value": 45,
+        "type": 5
+      }
+    ]
+  },
+  "1451": {
+    "expressID": 1451,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "21OqRHPrUiXmZoqPOOd2Nf",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingStoreyCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      },
+      {
+        "value": 1430,
+        "type": 5
+      }
+    ]
+  },
+  "1452": {
+    "expressID": 1452,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1AQ2qpIgRHahYVXseqU4oN",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_BuildingSystemCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      }
+    ]
+  },
+  "1453": {
+    "expressID": 1453,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "2Iny7UW$WM85r1Lj3sd5_n",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "Pset_SpaceCommon",
+      "type": 1
+    },
+    "Description": null,
+    "HasProperties": [
+      {
+        "value": 43,
+        "type": 5
+      },
+      {
+        "value": 45,
+        "type": 5
+      }
+    ]
+  },
+  "1454": {
+    "expressID": 1454,
+    "type": 3650150729,
+    "Name": {
+      "value": "Residential",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": true
+    },
+    "Unit": null
+  },
+  "1455": {
+    "expressID": 1455,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "3LM9gzT8tzh2MPm9n$7$q6",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "01-Building function",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005\uddd5\udc00",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1454,
+        "type": 5
+      }
+    ]
+  },
+  "1456": {
+    "expressID": 1456,
+    "type": 3650150729,
+    "Name": {
+      "value": "Number of occupants",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "50-100",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1457": {
+    "expressID": 1457,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "3our7PdWrwdDeDzQU1AsA5",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "02-Number of occupants",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005吀",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1456,
+        "type": 5
+      }
+    ]
+  },
+  "1458": {
+    "expressID": 1458,
+    "type": 3650150729,
+    "Name": {
+      "value": "Construction year",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "1958-61",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1459": {
+    "expressID": 1459,
+    "type": 3650150729,
+    "Name": {
+      "value": "Construction age",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "1950-1960; 1960-1970",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1460": {
+    "expressID": 1460,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "2ayBuyQuatvBxf39kmggU7",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "04-Age of construction",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005򅐀",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1458,
+        "type": 5
+      },
+      {
+        "value": 1459,
+        "type": 5
+      }
+    ]
+  },
+  "1461": {
+    "expressID": 1461,
+    "type": 3650150729,
+    "Name": {
+      "value": "Building techniques and materials",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "reinforced concrete",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1462": {
+    "expressID": 1462,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1ZKTfdc7JpmBXKw0Lxyj2B",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "05-Building techniques and materials",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005\udcd5\udc00",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1461,
+        "type": 5
+      }
+    ]
+  },
+  "1463": {
+    "expressID": 1463,
+    "type": 3650150729,
+    "Name": {
+      "value": "Moment frame",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": true
+    },
+    "Unit": null
+  },
+  "1464": {
+    "expressID": 1464,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "3TIcBxZEi2fRxD5mY6Jeje",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "06-Structural type",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005\uded5\udc00",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1463,
+        "type": 5
+      }
+    ]
+  },
+  "1465": {
+    "expressID": 1465,
+    "type": 3650150729,
+    "Name": {
+      "value": "Foundations",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Shallow foundation, with lateral capacity",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1466": {
+    "expressID": 1466,
+    "type": 3650150729,
+    "Name": {
+      "value": "Vertical elements",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Pillars",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1467": {
+    "expressID": 1467,
+    "type": 3650150729,
+    "Name": {
+      "value": "Horizontal elements",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Reinforced brick concrete slab",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1468": {
+    "expressID": 1468,
+    "type": 3650150729,
+    "Name": {
+      "value": "Roof type",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Pitched and hipped",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1469": {
+    "expressID": 1469,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "3E661PRfjilIUqBesrJdwZ",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "07-Structural elements",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005񅐀",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1465,
+        "type": 5
+      },
+      {
+        "value": 1466,
+        "type": 5
+      },
+      {
+        "value": 1467,
+        "type": 5
+      },
+      {
+        "value": 1468,
+        "type": 5
+      }
+    ]
+  },
+  "1470": {
+    "expressID": 1470,
+    "type": 3650150729,
+    "Name": {
+      "value": "Number of stories below ground",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 4,
+      "value": 1
+    },
+    "Unit": null
+  },
+  "1471": {
+    "expressID": 1471,
+    "type": 3650150729,
+    "Name": {
+      "value": "Total Number of stories",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 4,
+      "value": 6
+    },
+    "Unit": null
+  },
+  "1472": {
+    "expressID": 1472,
+    "type": 3650150729,
+    "Name": {
+      "value": "Heigth of structure (m)",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 4,
+      "value": 17
+    },
+    "Unit": null
+  },
+  "1473": {
+    "expressID": 1473,
+    "type": 3650150729,
+    "Name": {
+      "value": "Plan surface",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "U-shape",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1474": {
+    "expressID": 1474,
+    "type": 448429030,
+    "Dimensions": {
+      "value": "AREAUNIT",
+      "type": 5
+    },
+    "UnitType": null,
+    "Prefix": {
+      "type": 3,
+      "value": "SQUARE_METRE"
+    }
+  },
+  "1475": {
+    "expressID": 1475,
+    "type": 3650150729,
+    "Name": {
+      "value": "Average Plan Surface (mq)",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 4,
+      "value": 580
+    },
+    "Unit": null
+  },
+  "1476": {
+    "expressID": 1476,
+    "type": 3650150729,
+    "Name": {
+      "value": "Urban position",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Detached building",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1477": {
+    "expressID": 1477,
+    "type": 3650150729,
+    "Name": {
+      "value": "Plan regularity",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": false
+    },
+    "Unit": null
+  },
+  "1478": {
+    "expressID": 1478,
+    "type": 3650150729,
+    "Name": {
+      "value": "Elevation regularity",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "type": 3,
+      "value": true
+    },
+    "Unit": null
+  },
+  "1479": {
+    "expressID": 1479,
+    "type": 3650150729,
+    "Name": {
+      "value": "Roof type",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Pitched and hipped",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1480": {
+    "expressID": 1480,
+    "type": 3650150729,
+    "Name": {
+      "value": "Exterior walls",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Masonry",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1481": {
+    "expressID": 1481,
+    "type": 3650150729,
+    "Name": {
+      "value": "Opening at the bottom storeys",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Moderate openings (i.e. from 20% to 50% of the wall surface area is occupied by windows and/or doors)",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1482": {
+    "expressID": 1482,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "1mQz3IcZ4ghXEPlu51ltIC",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "08-Geometric features",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005\uddd5\udc00",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1470,
+        "type": 5
+      },
+      {
+        "value": 1471,
+        "type": 5
+      },
+      {
+        "value": 1472,
+        "type": 5
+      },
+      {
+        "value": 1473,
+        "type": 5
+      },
+      {
+        "value": 1475,
+        "type": 5
+      },
+      {
+        "value": 1476,
+        "type": 5
+      },
+      {
+        "value": 1477,
+        "type": 5
+      },
+      {
+        "value": 1478,
+        "type": 5
+      },
+      {
+        "value": 1479,
+        "type": 5
+      },
+      {
+        "value": 1480,
+        "type": 5
+      },
+      {
+        "value": 1481,
+        "type": 5
+      }
+    ]
+  },
+  "1483": {
+    "expressID": 1483,
+    "type": 3650150729,
+    "Name": {
+      "value": "General state of maintanance",
+      "type": 1
+    },
+    "Specification": null,
+    "NominalValue": {
+      "value": "Good",
+      "type": 1
+    },
+    "Unit": null
+  },
+  "1484": {
+    "expressID": 1484,
+    "type": 1451395588,
+    "GlobalId": {
+      "value": "0TbJrphMmSGqMsD$tkOZTc",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": {
+      "value": "09-General state of maintanance",
+      "type": 1
+    },
+    "Description": {
+      "value": "\u0007\u0005˅",
+      "type": 1
+    },
+    "HasProperties": [
+      {
+        "value": 1483,
+        "type": 5
+      }
+    ]
+  },
+  "1485": {
+    "expressID": 1485,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "0A1U_YcACFhwUQUKlBr$bJ",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1449,
+      "type": 5
+    }
+  },
+  "1486": {
+    "expressID": 1486,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "0$t$4Pf4FcEkaV_FKubmgM",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1450,
+      "type": 5
+    }
+  },
+  "1487": {
+    "expressID": 1487,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2viy2J7QhjgWz$0xWFt69f",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1451,
+      "type": 5
+    }
+  },
+  "1488": {
+    "expressID": 1488,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "1mWAXUgqZ5z4Eih_ijrwhN",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1452,
+      "type": 5
+    }
+  },
+  "1489": {
+    "expressID": 1489,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2ew0vr5ffK2lcWZKHGiSsl",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1453,
+      "type": 5
+    }
+  },
+  "1490": {
+    "expressID": 1490,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "1m$xp7vrKiuiIAUjehvZjS",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1455,
+      "type": 5
+    }
+  },
+  "1491": {
+    "expressID": 1491,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "3V9dFyit7vhyO7IKx5eCfW",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1457,
+      "type": 5
+    }
+  },
+  "1492": {
+    "expressID": 1492,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2Nk4EqtloxW84Nn2Lq8zNC",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1460,
+      "type": 5
+    }
+  },
+  "1493": {
+    "expressID": 1493,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2w1hsj9DlExMo7f1yydJ7i",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1462,
+      "type": 5
+    }
+  },
+  "1494": {
+    "expressID": 1494,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "2i4ydFSBtCPASxLxR43bc8",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1464,
+      "type": 5
+    }
+  },
+  "1495": {
+    "expressID": 1495,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "05cCl0V2PVNCilUq_EsE_H",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1469,
+      "type": 5
+    }
+  },
+  "1496": {
+    "expressID": 1496,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "23MovEoReANwe0PuqCsCTz",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1482,
+      "type": 5
+    }
+  },
+  "1497": {
+    "expressID": 1497,
+    "type": 4186316022,
+    "GlobalId": {
+      "value": "1x90f8Fe9uwvBzBZc3voX5",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 33,
+        "type": 5
+      }
+    ],
+    "RelatingPropertyDefinition": {
+      "value": 1484,
+      "type": 5
+    }
+  },
+  "1498": {
+    "expressID": 1498,
+    "type": 2655215786,
+    "GlobalId": {
+      "value": "2XoRpLH9Frr_9zEhVz_xrJ",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1398,
+        "type": 5
+      }
+    ],
+    "RelatingMaterial": {
+      "value": 1413,
+      "type": 5
+    }
+  },
+  "1499": {
+    "expressID": 1499,
+    "type": 2655215786,
+    "GlobalId": {
+      "value": "3FsyYfopHO62fINgOnH5iv",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingMaterial": {
+      "value": 1424,
+      "type": 5
+    }
+  },
+  "1500": {
+    "expressID": 1500,
+    "type": 781010003,
+    "GlobalId": {
+      "value": "1ESEQUKno9cJJbyg30nAXL",
+      "type": 1
+    },
+    "OwnerHistory": {
+      "value": 18,
+      "type": 5
+    },
+    "Name": null,
+    "Description": null,
+    "RelatedObjects": [
+      {
+        "value": 1421,
+        "type": 5
+      }
+    ],
+    "RelatingType": {
+      "value": 1398,
+      "type": 5
+    }
+  },
+  "1501": {
+    "expressID": 1501,
+    "type": 2022622350,
+    "Name": {
+      "value": "A-MASS-____-OTLN",
+      "type": 1
+    },
+    "Description": null,
+    "AssignedItems": [
+      {
+        "value": 1395,
+        "type": 5
+      },
+      {
+        "value": 1408,
+        "type": 5
+      },
+      {
+        "value": 1411,
+        "type": 5
+      },
+      {
+        "value": 1416,
+        "type": 5
+      }
+    ],
+    "Identifier": null
+  },
+  "1502": {
+    "expressID": 1502,
+    "type": 180925521,
+    "Units": [
+      {
+        "value": 19,
+        "type": 5
+      },
+      {
+        "value": 1474,
+        "type": 5
+      }
+    ]
+  },
+  "coordinationMatrix": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+  ]
+}

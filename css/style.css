@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --primary: #BCF124;
+  --secondary-color: #6528D7;
+  --primary-100: #073044;
+  --primary-200: #415A66;
+  --primary-300: #017CB3;
+  --primary-400: #50B6E6;
+  --background: #202124;
+  --background-100: #26282b;
+  --background-200: #3b3c3f;
+  --background-300: #e5e7eb;
+  --font-xs: 10px;
+  --font-sm: 12px;
+  --font-base: 14px;
+  --font-lg: 16px;
+  --font-xl: 18px;
+  --font-2xl: 20px;
+  --font-3xl: 22px;
+  
+}
+
+* {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: var(--font-base);
+}
+
+body {
+  height: 100vh;
+  background-color: var(--background-300);
+  --bim-label--c: #202124;
+  --bim-ui_bg-contrast-100: white;
+  --bim-ui_main-base: var(--secondary-color);
+  --bim-input--bgc:var(--secondary-color) !important;
+}
+
+.input{
+  --bim-input--bgc:var(--secondary-color) !important;
+}
+
+.parent bim-label{
+  --bim-label--c: goldenrod;
+}
+
+#viewer-container{
+  min-width: 0;
+    position: relative;
+    height: 100vh;
+}
+
+.mapboxgl-popup {
+  max-width: 400px;
+  font:
+      12px/20px 'Helvetica Neue',
+      Arial,
+      Helvetica,
+      sans-serif;
+}
+
+#features {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  overflow: auto;
+  background: rgba(255, 255, 255, 0.8);
+  color: black;
+  z-index: 99;
+}
+
+
+#cbo{
+  right: 10px;
+  position: absolute;
+  top: 10px;
+  width: 295px;
+  height: 202px;
+  z-index:999;
+}
+
+bim-button{
+  background: var(--secondary-color);
+  margin: 10px;
+}
+
+bim-button:hover{
+  background: var(--primary);
+  color: #202124;
+  margin: 10px;
+}
+
+bim-panel{
+  background-color: whitesmoke;
+  margin: 10px; 
+}
+
+bim-dropdown{
+  margin: 10px;
+}
+
+bim-dropdown *{
+}
+
+bim-label *{
+  --tw-text-opacity: 1;
+  color: var(--secondary-color);
+}
+
+bim-context-menu{
+  width: 180px;
+  background: var(--background-200);
+  left: 1350 !important;
+}
+
+
+
+/*::bim-label :host { color: green }*/
+
+

@@ -1,0 +1,32 @@
+{
+  "name": "bimverso-smuh-shared",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "author": "Francesca D'Uffizi",
+  "license": "GNU AGPLv3",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/three": "0.156.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.4.3",
+    "@thatopen/ui": "^2.4.2",
+    "@types/mapbox__mapbox-gl-draw": "^1.4.6",
+    "@types/mapbox-gl": "^3.1.0",
+    "bim-fragment": "1.0.22",
+    "dotenv": "^16.4.5",
+    "mapbox-gl": "^3.2.0",
+    "openbim-components": "1.1.5",
+    "three": "0.152.2",
+    "ts-node": "^10.9.2",
+    "uuid": "^9.0.1"
+  }
+}

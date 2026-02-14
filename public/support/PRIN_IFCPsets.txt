@@ -1,0 +1,110 @@
+#
+# User Defined PropertySet Definition File
+#
+# Format:
+#    PropertySet:	<Pset Name>	I[nstance]/T[ype]	<element list separated by ','>
+#	<Property Name 1>	<Data type>	<[opt] Revit parameter name, if different from IFC>
+#	<Property Name 2>	<Data type>	<[opt] Revit parameter name, if different from IFC>
+#	...
+#
+# Data types supported: Area, Boolean, ClassificationReference, ColorTemperature, Count, Currency, 
+#	ElectricalCurrent, ElectricalEfficacy, ElectricalVoltage, Force, Frequency, Identifier, 
+#	Illuminance, Integer, Label, Length, Logical, LuminousFlux, LuminousIntensity, 
+#	NormalisedRatio, PlaneAngle, PositiveLength, PositivePlaneAngle, PositiveRatio, Power, 
+#	Pressure, Ratio, Real, Text, ThermalTransmittance, ThermodynamicTemperature, Volume, 
+#	VolumetricFlowRate
+# 
+# Example property set definition for COBie:
+#
+#PropertySet:	COBie_Specification	T	IfcElementType
+#	NominalLength	Real	COBie.Type.NominalLength
+#	NominalWidth	Real	COBie.Type.NominalWidth
+#	NominalHeight	Real	COBie.Type.NominalHeight
+#	Shape		Text	COBie.Type.Shape
+#	Size		Text	COBie.Type.Size
+#	Color		Text	COBie.Type.Color
+#	Finish		Text	COBie.Type.Finish
+#	Grade		Text	COBie.Type.Grade
+#	Material	Text	COBie.Type.Material
+#	Constituents	Text	COBie.Type.Constituents
+#	Features	Text	Cobie.Type.Features
+#	AccessibilityPerformance	Text	COBie.Type.AccessibilityPerformance
+#	CodePerformance	Text	COBie.Type.CodePerformance
+#	SustainabilityPerformance	Text	COBie.Type.SustainabilityPerformance
+# 
+PropertySet:	01-Building function	I	IfcBuilding
+	Residential	Boolean	Residential
+	Commercial	Boolean	Commercial
+	Mixed use	Boolean	Mixed use
+	Industrial	Boolean	Industrial
+	Public Building	Boolean	Public Building
+	Education	Boolean	Education
+	Other / unknown occupancy type	Boolean	Other_Unknown occupancy type
+
+PropertySet:	02-Number of occupants	I	IfcBuilding
+	Number of occupants	Text	Number of occupants
+
+PropertySet:	03-Cultural heritage asset	I	IfcBuilding
+	Artistic	Boolean	Code constraints_Artistic
+	Landscape	Boolean	Code constraints_Landscape
+
+PropertySet:	04-Age of construction	I	IfcBuilding
+	Construction year	Text	Construction year
+	Year of usability certificate (agibilità)	Text	Year of usability certificate
+	Construction age	Text	Construction age
+
+PropertySet:	05-Building techniques and materials	I	IfcBuilding
+	Building techniques and materials	Text	Building techniques and materials
+
+PropertySet:	06-Structural type	I	IfcBuilding
+	Moment frame	Boolean	Moment frame
+	Wall	Boolean	Wall
+	Dual frame-wall system	Boolean	Dual frame-wall system
+	Braced frame	Boolean	Braced frame
+	Other	Boolean	Other
+
+PropertySet:	07-Structural elements	I	IfcBuilding
+	Foundations	Text	Foundations
+	Vertical elements	Text	Vertical elements
+	Horizontal elements	Text	Horizontal elements
+	Roof type	Text	Roof type
+
+PropertySet:	08-Geometric features	I	IfcBuilding
+Number of stories below ground	Real	Number of stories below ground
+Total Number of stories	Real	Total Number of stories
+Heigth of structure (m)	Length	Heigth of structure (m)
+Plan surface	Text	Plan surface
+Average Plan Surface (mq)	Area	Average Plan Surface (mq)
+Urban position	Text	Urban position
+Plan regularity	Boolean	Plan regularity
+Elevation regularity	Boolean	Elevation regularity
+Roof type	Text	Roof type
+Ground floor hydrodynamics	Text	Ground floor hydrodynamics
+Exterior walls	Text	Exterior walls
+Opening at the bottom storeys	Text	Opening at the bottom storeys
+
+PropertySet:	09-General state of maintanance	I	IfcBuilding
+	General state of maintanance	Text	General state of maintanance
+
+PropertySet:	10-Existing damage (if any)	I	IfcBuilding
+AffectedComponent_Vertical	Boolean	AffectedComponent_Vertical
+AffectedComponent_Horizontal	Boolean	AffectedComponent_Horizontal
+AffectedComponent_Building envelope	Boolean	AffectedComponent_Building envelope
+AffectedComponent_Other	Boolean	AffectedComponent_Other
+
+PropertySet:	11-Causes of existing damage (if any) 10-Existing damage if any	I	IfcBuilding
+War damages	Boolean	War damages
+Earthquake	Boolean	Earthquake
+Environmental damages	Boolean	Environmental damages
+Antrophic damages	Boolean	Antrophic damages
+
+PropertySet:	12-Age of retrofit (if any)	I	IfcBuilding
+	Structural upgrade	Text	Structural upgrade
+	Building upgrade	Text	Building upgrade
+	Unknown	Boolean	Unknown
+
+PropertySet:	13-Construction year of previous building	I	IfcBuilding
+	Construction year of previous building	Text	Construction year of previous building
+
+PropertySet:	14-Existence of previous documentation	I	IfcBuilding
+	Previous documentation	Text	Existence of previous documentation
