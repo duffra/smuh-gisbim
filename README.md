@@ -67,10 +67,7 @@ It's time to assemble the code and run the app to get your BIM-GIS viewer.
             antialias: true,
             maxZoom: 60,
             minZoom: 3,
-            maxBounds: [
-                [10.9752845,45.4379765], // Southwest coordinates
-                [10.998963,45.458596] // Northeast coordinates
-            ], 
+            maxBounds: maxbounds, 
         }
    ```
 5. Run the app and follow the instructions in the Terminal to open the local host on the cloud
