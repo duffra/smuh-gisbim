@@ -4,6 +4,8 @@
 This project one of the Work Packages for [SMUH](https://smuh.org/info/): Safeguard of Modern Urban Heritage: a cross-disciplinary WebGIS for Knowledge, Monitoring and Risk Analysis.
 
 The project aims at the preservation and cultural valorization of modern urban heritage combining historical-technical surveys, satellite monitoring and advanced digital platforms for spatial analysis and data representation.
+
+You can have a preview of the app, running on Firebase, here: [smuh-gisbim](https://smuh-gisbim.web.app/)
 <!-- GETTING STARTED -->
 ## Getting Started
 If you want to set up your project locally, feel free to get a local copy up and running follow these simple example steps.
