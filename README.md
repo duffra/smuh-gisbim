@@ -181,7 +181,7 @@ Our map is centered to Borgo Trento, Verona (Italy) and it is defined to be used
 ```
 In this application map is intended as a middle element of the chain: it must be readable by itself as a GIS content and must be integrated by BIM models on request.
 
-TTo achieve this GIS-BIM exchange, every geometry on the map must be enriched by a common attribute in order to get the call for its further data and to integrate BIM project in the exact position in the GIS environment. The logic is: you ask for a specific building, the app queries the database for geometry and data (IFC side), hides the correspondent GIS geometry and inserts the BIM model in its geographical location.
+To achieve this GIS-BIM exchange, every geometry on the map must be enriched by a common attribute in order to get the call for its further data and to integrate BIM project in the exact position in the GIS environment. The logic is: you ask for a specific building, the app queries the database for geometry and data (IFC side), hides the correspondent GIS geometry and inserts the BIM model in its geographical location.
 
 To get this working, it is important to keep everything organized and to think the entire GIS-BIM project as a database, where data and geometry fly from GIS side to BIM side and reverse, whit the possibility to be layered based on specific Levels of Development (LOD).
 
