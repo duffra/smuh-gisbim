@@ -194,7 +194,7 @@ Our Mapbox map is a mixed output built on top of:
  - Custom territorial data for representing terrain as 3D, based on real altimetry
  - Custom SAT files for buildings, integrating many attributes from regional and national databases and adding the relevant attributes for our analysis
 
-The final output is a public map, available through a [link by Mapbox](https://api.mapbox.com/styles/v1/duffra/cm5a30snz00jr01sfcudm5jd2.html?title=view&access_token=pk.eyJ1IjoiZHVmZnJhIiwiYSI6ImNsdHJmaDlmazBmNXoybG9hMGQ2MTZ3dnQifQ.hgm4mo1QPRYsARzz_NA8iw&zoomwheel=true&fresh=true#16.28/45.44226/10.988712/345.7/57) which can be called by the code using the following style:
+The final output is a public map, which can be called by the code using the following style:
 ```js
 style: 
       'mapbox://styles/duffra/cm5a30snz00jr01sfcudm5jd2',
