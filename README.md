@@ -121,15 +121,15 @@ Furthermore, you need to use a consistent setup to be sure that your data are tr
 ### IFC: HowTo 
 #### From IFC to fragments and structured properties
 To speed up the viewer, the current project is built on top of fragments and linked properties, based on That Open Engine approach.
-You can have a look at their documentation and build your own tool to extract IFC data to a JSON file, you can use one of the existent open tools developed by the Openers Community, or you can have a look at some functions inserted in this code and experiment modifing the code by yourself commenting out this line [here](/src/classes/GeneralTools_Generate.ts#L67)
+You can have a look at their documentation and build your own tool to extract IFC data to a JSON file, you can use one of the existent open tools developed by the Openers Community, or you can have a look at some functions inserted in this code and experiment modifing the code by yourself adding these lines to [convertSelectedIfcToFragments_BackEnd](/src/classes/GeneralTools_Generate.ts#L49)
 ```js
-/**
+   /**
     * If you load a model for the first time uncomment this line below to download properties
     * These files must be copied into the public folder to have a full viewer (model+data).
     * These lines must be commented to prevent massive download whenever you launch the app
     */
     
-    //exportJsonProps(model);
+    exportJsonProps(model);
 ```
 
 ### GIS: HowTo 
