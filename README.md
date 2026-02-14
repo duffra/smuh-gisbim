@@ -84,7 +84,6 @@ The goal is to have a volumetric enclosure representing a single building.
 In this project we used Autodesk Revit: you can easily use masses to get your building object. Use solids and voids to create the external skin of the building, it must result in one single component.
 > [!TIP]
 > 1. First rule: create a planar closed profile and use it as a key to create forms.
-> [!TIP]
 > 2. Second rule: define an "origin" which will be mantained as the key-point when inserting the model in the real geographic context.
 
 It's easier to use  standard logic: e.g. the origin is the lower left vertex of the profile.
@@ -111,9 +110,12 @@ Furthermore, you need to use a consistent setup to be sure that your data are tr
 
 | Parameter  | IFC Property | IFC PropertySet|
 | ------------- | ------------- | ------------- |
-| xx  | xx | xx |
-
+| Residential  | Residential | 01-Building function |
+| Construction age  | Construction age | 04-Age of construction |
+| ...  | ... | ... |
 > [!TIP]
+> The extended correspondence can be found at [MappingFile](public/support/PRIN_IFCPsets.txt)
+> 
 > You can look at the attached export setup [IFC 4x3](public/support/ExportConfig_FD_IFC4x3.json), valid both for Geographic Reference tab and Property Sets
 
 ### IFC: HowTo 
