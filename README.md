@@ -24,7 +24,7 @@ _This application relies on external libraries which will be installed locally._
 1. Get a free API Key for [Mapbox](https://account.mapbox.com/auth/signup/?page=/) library 
 2. Download or clone this repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/duffra/smuh-gisbim.git
    ```
 3. Install NPM packages. Required dependencies are automatically installed locally. 
    ```sh
@@ -32,7 +32,7 @@ _This application relies on external libraries which will be installed locally._
    ```
 4. Enter your Mapbox token in `.env` [.env](.env#1) to setup the required environment variables
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   VITE_MBOXTOKEN = 'ENTER YOUR API';
    ```
 <!-- USAGE EXAMPLES -->
 ## Usage
