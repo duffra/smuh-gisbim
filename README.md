@@ -55,7 +55,7 @@ It's time to assemble the code and run the app to get your BIM-GIS viewer.
    ```js
    export const buildingsList=[ed17,ed18];
    ```
-4. Go to [Mapbox index file](src/bim-components/Mapbox/index.ts#L79): here is the reference to the mapbox map which will be loaded into the scene and its setup. You can keep mine for testing, or replace with yours (see [How to setup GIS data on the cloud](#setup-gis-data-on-the-cloud) for further details about map customization)
+4. Go to [Mapbox index file](src/bim-components/Mapbox/index.ts#L81): here is the reference to the mapbox map which will be loaded into the scene and its setup. You can keep mine for testing, or replace with yours (see [How to setup GIS data on the cloud](#setup-gis-data-on-the-cloud) for further details about map customization)
   ```js
    var myInitialState = {
             pitch: 70.16,
